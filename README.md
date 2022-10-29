@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SafflowerSaff
-- 👀 I’m interested in Data Analytics 
+- 👀 I’m interested in data science development
 - 🌱 I’m currently learning Python with SoloLearn
 - 💞️ I’m looking to collaborate on beginners projects
 - 📫 How to reach me: VASafiyyahMay@gmail.com
